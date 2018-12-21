@@ -19,7 +19,7 @@ public class BrandController {
     private BrandService brandService;
 
     /**
-     * 全查询
+     * 全部查询
      * @return
      */
     @RequestMapping("/findAll")
